@@ -119,10 +119,10 @@ end
 # main
 
 set_csv_load_mode
-load_csv_to_attributes_table("db/cache/attributes.csv")
-load_csv_to_classifications_table("db/cache/gene_chromosome_ensembl.fix.csv", "table1")
-load_csv_to_classifications_table("db/cache/gene_high_level_expression_refex.fix.csv", "table2")
-load_csv_to_classifications_table("db/cache/gene_transcription_factors_chip_atlas.fix.csv", "table3")
-load_csv_to_classifications_table("db/cache/protein_cellular_component_uniprot.fix.csv", "table4")
-load_csv_to_classifications_table("db/cache/protein_disease_related_proteins_uniprot.fix.csv", "table5")
-load_csv_to_distributions_table("db/cache/protein_molecular_mass_uniprot.csv", "table6")
+load_csv_to_attributes_table("attributes.csv")
+load_csv_to_classifications_table("gene_chromosome_ensembl.csv", "table1")
+load_csv_to_classifications_table("gene_high_level_expression_refex.csv", "table2")
+load_csv_to_classifications_table("gene_transcription_factors_chip_atlas.csv", "table3")
+load_csv_to_classifications_table("protein_cellular_component_uniprot.csv", "table4")
+load_csv_to_classifications_table("protein_disease_related_proteins_uniprot.csv", "table5")
+load_csv_to_distributions_table("protein_molecular_mass_uniprot.csv", "table6")
