@@ -16,6 +16,6 @@ JSON[ARGF.read].each do |hash|
   if classification and classification[regex] and classification_parent and classification_parent[regex]
     puts [ classification, classification_label, classification_parent, leaf ].join(",")
   elsif ! classification_parent
-    puts ",root,root node,,0"
+    puts "root,root node,,0"
   end
 end
