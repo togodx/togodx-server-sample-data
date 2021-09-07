@@ -1,4 +1,3 @@
-9995,"Disease",,0
 14,"AIDS",9995,0
 15,"Albinism",9995,0
 20,"Allergen",9995,0
@@ -9,7 +8,6 @@
 43,"Tumor suppressor",9995,0
 65,"Atherosclerosis",9995,0
 69,"Autoimmune encephalomyelitis",9995,0
-70,"Autoimmune uveitis",844,0
 70,"Autoimmune uveitis",9995,0
 83,"Bardet-Biedl syndrome",1186,0
 87,"Bernard Soulier syndrome",9995,0
@@ -26,7 +24,6 @@
 218,"Diabetes insipidus",9995,0
 219,"Diabetes mellitus",9995,0
 225,"Disease variant",9995,0
-225,"Disease variant",9997,0
 241,"Down syndrome",9995,0
 242,"Dwarfism",9995,0
 248,"Ehlers-Danlos syndrome",9995,0
@@ -37,7 +34,6 @@
 322,"Glycogen storage disease",9995,0
 331,"Gangliosidosis",9995,0
 335,"Gout",9995,0
-355,"Hemophilia",94,0
 355,"Hemophilia",9995,0
 360,"Hereditary hemolytic anemia",9995,0
 361,"Hereditary multiple exostoses",9995,0
@@ -70,11 +66,9 @@
 751,"Stargardt disease",9995,0
 757,"Stickler syndrome",9995,0
 772,"Systemic lupus erythematosus",9995,0
-792,"Thrombophilia",94,0
 792,"Thrombophilia",9995,0
 821,"Trypanosomiasis",9995,0
 836,"Usher syndrome",209,0
-852,"von Willebrand disease",94,0
 852,"von Willebrand disease",9995,0
 855,"Whooping cough",9995,0
 856,"Williams-Beuren syndrome",9995,0
@@ -160,6 +154,7 @@
 1269,"Autism",1268,0
 1270,"Asperger syndrome",1268,0
 1274,"Primary mitochondrial disease",9995,0
+9995,"Disease",,0
 A0A0B4J1V1,"HV321_HUMAN",225,1
 A0A140G945,"CRYA2_HUMAN",898,1
 A0PJY2,"FEZF1_HUMAN",225,1
